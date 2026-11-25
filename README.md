@@ -87,15 +87,7 @@ An analysis project exploring sales performance, product trends, total revenue, 
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhammitkari64-spec&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammitkari64-spec&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
 
 ---
 
